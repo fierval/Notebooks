@@ -1,0 +1,12 @@
+paket-files
+.ipynb_checkpoints
+node_modules
+packages
+/*.dependencies
+/*.lock
+/Labs/*.dependencies
+/Labs/*.lock
+/Labs/*.log
+/Labs/*.jpg
+/Labs/*.dll
+/*.log

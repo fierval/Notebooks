@@ -10,3 +10,5 @@ packages
 /Labs/*.jpg
 /Labs/*.dll
 /*.log
+/*.jpg
+/*.dll
